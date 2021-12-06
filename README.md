@@ -52,4 +52,4 @@
 
 ![alt text](https://github.com/anhhui/image/blob/main/FP2_ch.PNG?raw=true)
 
-![alt text](https://github.com/anhhui/image/blob/main/FP2_RS.png?raw=true)
+![alt text](https://github.com/anhhui/image/blob/main/FP2_RS.PNG?raw=true)
