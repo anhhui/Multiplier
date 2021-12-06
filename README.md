@@ -1,4 +1,4 @@
 # Multiplier
 âccacac
-![alt text](https://github.com/anhhui/Multiplier/blob/main/image/Capture.PNG?raw=true)
+![alt text](https://github.com/anhhui/image/blob/main/Array4bit.PNG?raw=true)
 ffffafafaf
